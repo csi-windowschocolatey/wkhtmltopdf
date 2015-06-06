@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>			
+    <id>wkhtmltopdf</id>
+    <version>0.12.2</version>
+    <title>wkhtmltopdf</title>
+    <authors>Jakob Truelsen</authors>
+    <owners>Ellen Gummesson Darwin Sanoy</owners>
+    <licenseUrl>http://www.gnu.org/licenses/lgpl.html</licenseUrl>
+    <projectUrl>http://wkhtmltopdf.org/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A simple shell utility to convert HTML to PDF using the Webkit rendering engine and Qt.</description>
+    <summary>Convert HTML to PDF using Webkit
+	As of 0.12.2 this package supports uninstall</summary>
+    <tags>html pdf webkit</tags>
+  </metadata>
+</package>
